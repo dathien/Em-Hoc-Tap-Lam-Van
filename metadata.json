@@ -1,0 +1,6 @@
+{
+  "name": "Em Học Tập Làm Văn",
+  "description": "Ứng dụng rèn luyện kĩ năng tập làm văn tiểu học (Lớp 1-5) theo bộ sách Kết nối tri thức với cuộc sống. Em nghĩ điều hay – Em viết điều đẹp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
